@@ -1,6 +1,6 @@
 # test_ampliacion_caracteres
 
-# Ampliar el Límite de Caracteres en PrestaShop 1.7
+# Ampliar el Límite de Caracteres
 
 ## Pasos a Seguir
 
